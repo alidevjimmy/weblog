@@ -1,0 +1,7 @@
+[title]: <> (Ali Hamrani's website)
+[icon]: <> (http://vitalik.ca/images/icon.png)
+[server]: <> (root@vitalik.ca)
+[website_root]: <> (/var/www/html/alihamraniblog.github.io/)
+[domain]: <> (https://alihamraniblog.github.io)
+[posts_directory]: <> (general)
+[homepage_category]: <> (general)
